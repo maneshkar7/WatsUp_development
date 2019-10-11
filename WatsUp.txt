@@ -3,3 +3,4 @@ WatsUp
 2.Chat screen
 3.Last seen
 4.Attachments (Image,Audio)
+5.Adding video call feature
